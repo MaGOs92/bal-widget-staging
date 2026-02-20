@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "https://magos92.github.io/bal-widget-staging/\r\n/bal-widget.js",
+    "bal-widget.chunk.882.js": "https://magos92.github.io/bal-widget-staging/\r\n/bal-widget.chunk.882.js",
+    "bal-widget.chunk.787.js": "https://magos92.github.io/bal-widget-staging/\r\n/bal-widget.chunk.787.js",
+    "index.html": "https://magos92.github.io/bal-widget-staging/\r\n/index.html",
+    "bal-widget.js.map": "https://magos92.github.io/bal-widget-staging/\r\n/bal-widget.js.map",
+    "bal-widget.chunk.882.js.map": "https://magos92.github.io/bal-widget-staging/\r\n/bal-widget.chunk.882.js.map",
+    "bal-widget.chunk.787.js.map": "https://magos92.github.io/bal-widget-staging/\r\n/bal-widget.chunk.787.js.map"
+  },
+  "entrypoints": [
+    "bal-widget.js"
+  ]
+}
